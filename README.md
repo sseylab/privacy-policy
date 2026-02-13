@@ -16,11 +16,15 @@ SSEYLAB에서 개발하고 배포하는 다양한 도구 및 서비스의 **개�
 
 현재 제공 중인 도구들의 상세 정책은 아래 링크를 통해 확인하실 수 있습니다.
 
-| 서비스 명칭 | 관련 문서 | 마지막 업데이트 |
-| :--- | :--- | :--- |
-| **CRX 미디어 추출기** | [개인정보 처리방침](crx-media-extractor.md) | 2026-01-25 |
-| **HLS 비디오 다운로더** | [개인정보 처리방침](crx-catch-stream.md) | 2026-01-28 |
-| **네이버 쇼핑 목록 추출기** | [개인정보 처리방침](crx-naver-shopping-data-zapper.md) | 2026-02-03 |
+| 서비스 명칭                     | 관련 문서                                      | 마지막 업데이트   |
+|:---------------------------|:-------------------------------------------|:-----------|
+| 서비스 명칭                     | 관련 문서                                      | 마지막 업데이트   |
+| :---                       | :---                                       | :---       |
+| **HLS Video Downloader**   | [상세 보기](crx-catch-stream.md)               | 2026-02-13 |
+| **AI Background Remover**  | [상세 보기](crx-bg-remover.md)                 | 2026-02-13 |
+| **Media Extractor**        | [상세 보기](crx-media-extractor.md)            | 2026-02-13 |
+| **Shopping Data Zapper**   | [상세 보기](crx-naver-shopping-data-zapper.md) | 2026-02-13 |
+| **Screenshot-to-Text OCR** | [상세 보기](crx-screenshot-to-text.md)         | 2026-02-13 |
 
 ---
 
