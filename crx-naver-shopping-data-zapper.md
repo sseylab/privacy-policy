@@ -45,7 +45,7 @@
 
 ### 6. 문의 사항
 
-본 개인정보 처리방침에 대해 궁금한 점이나 의견이 있으시면 [SSEYLAB GitHub 저장소](https://github.com/sseylab)의 Issue 탭을 통해 문의해 주시기 바랍니다.
+본 개인정보 처리방침에 대해 궁금한 점이나 의견이 있으시면 [DEV.LAB GitHub 저장소](https://github.com/DEV.LAB)의 Issue 탭을 통해 문의해 주시기 바랍니다.
 
 ---
-**© 2026 SSEYLAB. All Rights Reserved.**
+**© 2026 DEV.LAB. All Rights Reserved.**

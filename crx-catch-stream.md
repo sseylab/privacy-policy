@@ -2,7 +2,7 @@
 
 **시행일: 2026년 1월 28일**
 
-**HLS 비디오 다운로더(HLS Video Downloader)**(이하 "본 확장 프로그램")는 사용자의 개인정보를 소중하게 생각합니다. 본 프로그램은 `crx-media-extractor`와 동일한 운영 주체인 **SSEYLAB**에 의해 개발 및 관리되며, 동일한 수준의 개인정보 보호 원칙을 준수합니다.
+**HLS 비디오 다운로더(HLS Video Downloader)**(이하 "본 확장 프로그램")는 사용자의 개인정보를 소중하게 생각합니다. 본 프로그램은 `crx-media-extractor`와 동일한 운영 주체인 **DEV.LAB**에 의해 개발 및 관리되며, 동일한 수준의 개인정보 보호 원칙을 준수합니다.
 
 ---
 
@@ -31,7 +31,7 @@
 - 외부 서버를 이용하는 경우에도 데이터는 암호화된 통신을 통해 전송되며, **변환 처리 목적 이외의 용도로 사용되지 않습니다.**
 
 ### 4. 문의하기
-본 개인정보 처리방침과 관련하여 문의사항이 있으신 경우, [SSEYLAB GitHub 저장소](https://github.com/sseylab)를 통해 연락해주시기 바랍니다.
+본 개인정보 처리방침과 관련하여 문의사항이 있으신 경우, [DEV.LAB GitHub 저장소](https://github.com/DEV.LAB)를 통해 연락해주시기 바랍니다.
 
 ---
-**© 2026 SSEYLAB. All Rights Reserved.**
+**© 2026 DEV.LAB. All Rights Reserved.**
